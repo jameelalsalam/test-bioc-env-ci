@@ -1,0 +1,15 @@
+Package: testbiocenv
+Title: Test R Environment with Bioconductor
+Version: 0.0.0.9000
+Authors@R: 
+  person(given = "Jameel",
+         family = "Alsalam",
+         role = c("aut", "cre"),
+         email = "jalsalam@gmail.com",
+         comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: TODO figure out data license
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
